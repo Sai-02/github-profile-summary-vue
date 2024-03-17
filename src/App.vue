@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div>
+  <div class="text-center">
     Basic App
   </div>
 </template>
